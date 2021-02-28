@@ -1,5 +1,5 @@
-
-## Hey 👋, [![Gmail Badge](https://img.shields.io/badge/-muhammadziadalfian07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadziadalfian07@gmail.com)](mailto:muhammadziadalfian07@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-muhammadziadalfian07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadziadalfian07@gmail.com)](mailto:muhammadziadalfian07@gmail.com) 
+ [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://muhammadziadalfian07.github.io//)](https://muhammadziadalfian07.github.io//) 
 
 # Muhammad Ziad Alfian
 
