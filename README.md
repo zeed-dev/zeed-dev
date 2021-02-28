@@ -1,9 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-muhammadziadalfian07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadziadalfian07@gmail.com)](mailto:muhammadziadalfian07@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-muhammadziadalfian07-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muhammadziadalfian07/)](https://www.github.com/muhammadziadalfian07/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://muhammadziadalfian07.github.io//)](https://muhammadziadalfian07.github.io//) 
 
-name=muhammadziadalfian07&show_icons=true&include_all_commits=true)](https://github.com/muhammadziadalfian07/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadziadalfian07&layout=compact)](https://github.com/muhammadziadalfian07/github-readme-stats)
-
 
 # Muhammad Ziad Alfian
 
