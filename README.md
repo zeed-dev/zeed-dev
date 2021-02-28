@@ -1,6 +1,6 @@
 # Muhammad Ziad Alfian
 
-Hi, I'm Muhammad ziad alfian. I'm freelance at Home. I live in West Nusa Tenggara, Indonesia and am an Malay native. I'm a Flutter Enthusiast💖.Manage projects with git and understanding to publish projects on Playstore.
+Hi, I'm Muhammad ziad alfian. I'm freelance at Home. I live in West Nusa Tenggara, Indonesia and am an Malay native. I'm a Flutter Enthusiast💖. Manage projects with git and understanding to publish projects on Playstore.
 
 ## My GitHub Stats
 
