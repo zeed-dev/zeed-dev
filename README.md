@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ## Hey 👋, This is MUHAMMAD ZIAD ALFIAN
 [![Gmail Badge](https://img.shields.io/badge/-muhammadziadalfian07@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:muhammadziadalfian07@gmail.com)](mailto:muhammadziadalfian07@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-muhammadziad-alfian-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadziad-alfian/)](https://www.linkedin.com/in/muhammadziad-alfian/) [![Github Badge](https://img.shields.io/badge/-muhammadziadalfian07-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muhammadziadalfian07/)](https://www.github.com/muhammadziadalfian07/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://muhammadziadalfian07.github.io//)](https://muhammadziadalfian07.github.io//) <p align='left'>Hi, I'm Muhammad ziad alfian. I'm freelance at Home. I live in West Nusa
+[![Linkedin Badge](https://img.shields.io/badge/-www.linkedin.com/in/muhammadziad-alfian-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/www.linkedin.com/in/muhammadziad-alfian/)](https://www.linkedin.com/in/www.linkedin.com/in/muhammadziad-alfian/) [![Github Badge](https://img.shields.io/badge/-muhammadziadalfian07-grey?style=flat&logo=github&logoColor=white&link=https://github.com/muhammadziadalfian07/)](https://www.github.com/muhammadziadalfian07/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://muhammadziadalfian07.github.io//)](https://muhammadziadalfian07.github.io//) <p align='left'>Hi, I'm Muhammad ziad alfian. I'm freelance at Home. I live in West Nusa
 Tenggara, Indonesia and am an Malay native. I'm a Flutter Enthusiast .
 Manage projects with git and understanding to publish projects on Playstore</p>
 ## Some of my Github Stats
