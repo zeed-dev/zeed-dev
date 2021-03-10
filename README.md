@@ -8,7 +8,7 @@ Hi, I'm Muhammad ziad alfian. I'm freelance at Home. I live in West Nusa Tenggar
 
 ## My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=muhammadziadalfian07&count_private=true&show_icons=true&theme=cobalt" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=zeed-dev&count_private=true&show_icons=true&theme=cobalt" />
 </p>
 
 ## Be Social With Me
