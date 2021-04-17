@@ -18,7 +18,6 @@
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
 [<img alt="Laravel" src="https://img.shields.io/badge/laravel-%230175C2.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>][dart]
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
-[<img alt="Laravel" src="https://img.shields.io/badge/laravel-%23FF0000.svg?&style=for-the-badge&logo=laravel&logoColor=white"/>][laravel]
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
 
 
