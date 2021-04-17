@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[<img alt="LinkedIn" src="https://img.shields.io/badge/ziad alfian%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/Muhammad Ziad Alfian%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img alt="Instagram" src="https://img.shields.io/badge/ziadalfiann_%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 ### Languages, Frameworks, and Tools:
@@ -20,9 +20,9 @@
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
 
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=codestronaut&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=zeed-dev&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codestronaut&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeed-dev&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/ziadalfiann_
 [linkedin]: https://www.linkedin.com/in/muhammad-ziad-alfian
