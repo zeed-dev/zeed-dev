@@ -12,7 +12,7 @@
 ### Connect with me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Muhammad Ziad Alfian%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/ziadalfiann_%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="Instagram" src="https://img.shields.io/badge/ziadalfiann_ %20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 ### Languages, Frameworks, and Tools:
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
