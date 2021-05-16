@@ -24,7 +24,7 @@
 
 [![Ziad's github stats](https://github-readme-stats.vercel.app/api?username=zeed-dev&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeed-dev&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zed-dev&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/ziadalfiann_
 [linkedin]: https://www.linkedin.com/in/muhammad-ziad-alfian
